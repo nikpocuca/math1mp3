@@ -9,6 +9,10 @@ This tutorial introduces the following topics.
 
 - Starting out in Windows, Mac OSX, or Linux 
 
+All my code and work done in tutorials will be put up on github here: https://github.com/nikpocuca/math1mp3 
+
+*Click Download for those who do not know how to use github. 
+
 ## Programming Languages 
 
 Just like human languages were created so that humans could communicate complex ideas between each other, programming languages were created so that humans would be able to communicate with computers. 
@@ -39,7 +43,8 @@ PyCharm found here: https://www.jetbrains.com/pycharm/download/#section=mac *Mak
 
 Most of you will either have Windows or Mac. Those who have linux I am going to assume you know most of this stuff already.
 
-Each of these systems have their own configurations and issues setting up (This is part of the job). For the purposes of this tutorial I have brought all three types of operating systems and will be showing you all how get all three IDE's. 
+Each of these systems have their own configurations and issues setting up (This is part of the job). For the purposes of this tutorial I will only consider using McMaster's Jupyter notebook server.
+
 
 
 
