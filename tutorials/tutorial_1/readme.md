@@ -1,6 +1,8 @@
 
 # Tutorial 1 
 
+Course Website: https://ms.mcmaster.ca/~matt/1mp3/
+
 This tutorial introduces the following topics. 
 
 - Programming langauges
@@ -44,6 +46,10 @@ PyCharm found here: https://www.jetbrains.com/pycharm/download/#section=mac *Mak
 Most of you will either have Windows or Mac. Those who have linux I am going to assume you know most of this stuff already.
 
 Each of these systems have their own configurations and issues setting up (This is part of the job). For the purposes of this tutorial I will only consider using McMaster's Jupyter notebook server.
+
+
+## Let's take a look at the language
+
 
 
 
