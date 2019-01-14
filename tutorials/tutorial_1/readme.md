@@ -41,4 +41,13 @@ Most of you will either have Windows or Mac. Those who have linux I am going to 
 
 Each of these systems have their own configurations and issues setting up (This is part of the job). 
 
+##  Codelab
+
+Codelab is an online system for teaching you programming and providing your in tutorial quizzes. It costs $25 to register. 
+
+Here is the link: https://codelab4.turingscraft.com/login
+
+## Lets get started 
+
+
 
