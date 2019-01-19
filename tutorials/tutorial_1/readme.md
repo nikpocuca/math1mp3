@@ -45,16 +45,7 @@ PyCharm found here: https://www.jetbrains.com/pycharm/download/#section=mac *Mak
 
 Most of you will either have Windows or Mac. Those who have linux I am going to assume you know most of this stuff already.
 
-<<<<<<< HEAD
 Each of these systems have their own configurations and issues setting up (This is part of the job). For the purposes of this tutorial I will only consider using McMaster's Jupyter notebook server.
-
-
-## Let's take a look at the language
-
-
-=======
-Each of these systems have their own configurations and issues setting up (This is part of the job). 
->>>>>>> 2b318f271c4833b4580f9a1b32880c46d42fe80d
 
 ##  Codelab
 
