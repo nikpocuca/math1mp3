@@ -1,7 +1,7 @@
 
 # Tutorial 1 
 
-Course Website: https://ms.mcmaster.ca/~matt/1mp3/
+Course Website: https://ms.mcmaster.ca/~matt/1mp3.html
 
 This tutorial introduces the following topics. 
 
