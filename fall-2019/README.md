@@ -24,9 +24,10 @@ Only exception, you are required to go to your own section. when there is a quiz
 
 When emailing me, Steve, or Dr. Bolker please show proper email etiquette. Title your emails in such a way that we know the following: 
 
+- “1MP3” in the subject. Include your Mac ID and student ID, and your (lecture and/or tutorial) section in the body of the e-mail.
 - what the reason is for your email 
 - which section you are in
-- Student ID number found somewhere in the email. 
+
 
 ### DOS:
 - use "Dear" at the beginning ie. "Dear Nik, " 
