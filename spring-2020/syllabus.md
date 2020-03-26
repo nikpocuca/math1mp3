@@ -4,13 +4,18 @@
 ## Course Content
 The following topics will be covered in order:
 
-- Introduction to UNIX, Bourne-Again shell (Bash), File system, managing files, creating files, moving files. Requirements: Syzygy.
+- Introduction to UNIX, Bourne-Again shell (Bash), File system, managing files, creating files, moving files. Requirements: Syzygy, using git, cloning, pulling and managing.
 - Introduction to Programming Principles, basic concepts, Python REPL, Python Jupyter Notebook. Requirements: Syzygy or any computer with Jupyter installed.
 - Primitive Data Types and Operators, Addition, Subtraction, Multiplication, Strings, Booleans, Modulo, Comparisons.  
 - Variable Declaration, Assignment, Primitive Functions, If/Else Statements, Print Statements.
 - Lists, List Manipulation, Control Flow, For Loops, While Loops, Iteration over Lists, Infinite Loops, Breaks, Iteration over strings, Concatenation with strings, Deep copy.    
 - Functions, Local/Global Scopes, Return, Arguments, Key word arguments, Variable Number of Arguments, Higher-order Functions, Defensive Programming, Recursion.
-
+- Advanced Higher Order Functions, Map, Filter, Reduce, Anonymous Functions.
+- Dictionaries, basic concepts (key/value), operators on dictionaries, other dictionary functions.
+- Modules: math and numpy, pyplot, scientific computing concepts, floating point numbers and arithmetic, plotting.
+- Modules: os, python scripting, file creation, deletion, movement, bash integration.
+- Modules: numpy, basic introduction to random numbers. Random walk example,
+- Final Project: COVID-19 Related, what does "Flattening the curve" mean, SIR Disease model, random vs deterministic models. 
 
 
 ## Personnel
@@ -36,7 +41,7 @@ Throughout the syllabus, there are *COVID-19 marks that indicate changes to the 
 
 ## Tutorials and assignments
 
-- Tutorials will start **Monday May the 4th**.  They will be used primarily for help and review, not for presenting new material (any exceptions will be noted). There will be approximately four quizzes over the course of the semester, held during tutorials.
+- Tutorials will start **Monday May the 4th**.  They will be used primarily for help and review, not for presenting new material (any exceptions will be noted).
 
 
 ## Course material
@@ -50,7 +55,6 @@ Throughout the syllabus, there are *COVID-19 marks that indicate changes to the 
 ##  Evaluation
 
 - Assignments (10%)
-- Quizzes (5%)
 - Final project (5%)
 - Midterm tests
      - evening, Tues 22 October (tentative) (20%)
@@ -88,7 +92,7 @@ The instructor and university reserve the right to modify elements of the course
 
 If you are absent from the university for a minor medical reason, lasting fewer than 3 days, you may report your absence, once per term, without documentation, using the McMaster Student Absence Form. Absences for a longer duration or for other reasons must be reported to your Faculty/Program office, with documentation, and relief from term work may not necessarily be granted. When using the MSAF, report your absence to `pocucan@mcmaster.ca`. You must then contact Nikola Pocuca immediately (within 2 working days) by email to learn what relief may be granted for the work you have missed, and relevant details such as revised deadlines, or time and location of a make-up exam. Please note that the MSAF may not be used for term work worth 25% or more, nor can it be used for the final examination. Further details can be found here: https://www.mcmaster.ca/msaf/index.html and here: http://academiccalendars.romcmaster.ca/content.php?catoid=13&navoid=2208#Requests_for_Relief_for_Missed_Academic_Term_Work
 
-Should an accommodation for missed work be granted, the percentage for a missed test will be added to your final exam.  The percentage for a missed assignment or quiz will be distributed amongst your remaining assignments or quizzes.
+Should an accommodation for missed work be granted, the percentage for a missed test or assignment will be added to your final exam.
 
 If you must miss a lecture, it is your responsibility to find out what was covered. The best way to do this is to borrow a classmate's notes, read them over, and then ask your instructor if there is something that you do not understand.
 
