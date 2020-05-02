@@ -2,4 +2,5 @@
 
 This is a git repo consisting of past classes I have TA'd and taught. 
 
+Including todays class
 
